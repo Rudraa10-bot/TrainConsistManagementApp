@@ -16,7 +16,6 @@ Previously, the code was pushed to the `dev` branch. From this point onward, the
 - UC3: Track Unique Bogie IDs
 
 ## Tech Stack
-
 - Java
 - Console Application
 - Collections Framework (`ArrayList`, `HashSet`)
