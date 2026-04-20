@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7362ce5-b47b-491f-9b8c-aec179385a22" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/App/src/main/UseCase8TrainConsisntMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/main/UseCase9TrainConsisntMgmt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/test/UseCase8TrainConsistMgmtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/test/UseCase9TrainConsisntMgmtTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/main/UseCase9TrainConsisntMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/main/UseCase10TrainConsistMgmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/test/UseCase9TrainConsisntMgmtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/test/UseCase10TrainConsistMgmtTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,9 @@
   "keyToString": {
     "Application.TrainConsistManagementApp.executor": "Run",
     "Application.UseCase8TrainConsisntMgmt.executor": "Run",
+    "Application.UseCase9TrainConsisntMgmt.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.UseCase10TrainConsistMgmtTest.executor": "Run",
     "JUnit.UseCase8TrainConsistMgmtTest.executor": "Run",
     "JUnit.UseCase9TrainConsisntMgmtTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
