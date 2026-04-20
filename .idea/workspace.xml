@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7362ce5-b47b-491f-9b8c-aec179385a22" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/App/src/main/UseCase11TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/main/UseCase12TrainConsistMgmt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/test/UseCase11TrainConsistMgmtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/test/UseCase12TrainConsistMgmtTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="e7362ce5-b47b-491f-9b8c-aec179385a22" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +33,7 @@
     "Application.TrainConsistManagementApp.executor": "Run",
     "Application.UseCase10TrainConsistMgmt.executor": "Run",
     "Application.UseCase12TrainConsistMgmt.executor": "Run",
+    "Application.UseCase13TrainConsistMgmt.executor": "Run",
     "Application.UseCase8TrainConsisntMgmt.executor": "Run",
     "Application.UseCase9TrainConsisntMgmt.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -51,7 +49,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "UseCase11TrainConsistMgmt",
+    "git-widget-placeholder": "UseCase13TrainConsistMgmt",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
