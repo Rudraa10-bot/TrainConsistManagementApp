@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7362ce5-b47b-491f-9b8c-aec179385a22" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/main/UseCase8TrainConsisntMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/main/UseCase9TrainConsisntMgmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/src/test/UseCase8TrainConsistMgmtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/test/UseCase9TrainConsisntMgmtTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,8 @@
     "Application.TrainConsistManagementApp.executor": "Run",
     "Application.UseCase8TrainConsisntMgmt.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.UseCase8TrainConsistMgmtTest.executor": "Run",
+    "JUnit.UseCase9TrainConsisntMgmtTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -43,8 +45,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "UseCase9TrainConsisntMgmt",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
