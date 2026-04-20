@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7362ce5-b47b-491f-9b8c-aec179385a22" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/App/src/main/UseCase16TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/main/UseCase17TrainConsistMgmt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/src/test/UseCase16TrainConsistMgmtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/src/test/UseCase17TrainConsistMgmtTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="e7362ce5-b47b-491f-9b8c-aec179385a22" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +55,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "UseCase16TrainConsistMgmt",
+    "git-widget-placeholder": "UseCase17TrainConsistMgmt",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
